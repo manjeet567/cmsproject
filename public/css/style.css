@@ -1,0 +1,180 @@
+#reg{
+    height: 550px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+#reg h2{
+    text-align: center;
+    font-family: 'Explora', cursive;
+    font-weight: bolder;
+    font-size: 35px;
+}
+#reg small{
+    color: red;
+}
+#reg p{
+    text-align: center;
+}
+#reg a{
+    text-align: center;
+    text-decoration: none;
+}
+#reg h3{
+    color: red;
+    font-weight: bolder;
+}
+#reg img{
+    float: right;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+
+}
+#reg1 h6{
+    color: gray;
+}
+
+#reg1 p{
+    color: gray;
+    text-align: left;
+}
+#reg1{
+    padding: 47px 0px;
+}
+#reg1 img{
+    width: 350px;
+    height: 400px;
+    box-shadow: black 10px 10px 15px;
+    border-radius: 0%;
+    float: none;
+    margin-bottom: 20px;
+}
+#profile{
+     padding: 30px;
+    background: rgb(243, 237, 237);
+    border-radius: 20px;
+
+}
+#footer{
+    padding: 35px 0px;
+}
+#header{
+    background: linear-gradient(to right, rgb(21,15,188),rgb(4,2,64));
+    padding: 10px 0px;
+
+}
+#header ul li a{
+    color: white;
+}
+#header img{
+    width: 100px;
+    box-shadow: 10px 10px black;
+}
+#header .bi-list{
+    color: white;
+    font-size: 30px;
+}
+#header .container-fluid{
+    padding-left: 0px;
+}
+.banner1{
+    background: rgb(243, 237, 237);
+
+}
+
+#banner{
+    padding-top: 30px;
+    margin-bottom: 30px;
+
+}
+#banner button{
+    margin-bottom: 30px;
+}
+#banner #banner-img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+#banner #banner-img2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+   
+#banner h2{
+    font-family: 'Explora', cursive;
+    font-size: 35px;
+    font-weight: bolder;
+   
+
+}
+#banner img{
+    width: 100%;
+}
+
+#services img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+#services h2{
+    font-family: 'Explora', cursive;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+#testi{
+    padding: 25px 0px;
+}
+#testi img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+#testi h2{
+    font-family: 'Explora', cursive;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+#footer{
+    background: linear-gradient(to right, rgb(21,15,188),rgb(4,2,64));
+    padding-bottom: 20px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    
+}
+#footer #border-footer-img{
+    width: 100%;
+}
+#footer h2{
+    color: white;
+    font-family: 'Explora', cursive;
+}
+#footer span{
+    color: white;
+    font-size: 20px;
+    margin-right: 10px;
+}
+#footer p{
+    color: white;
+    text-align: justify;
+}
+#footer #footer-logo{
+    width: 100px;
+}
+#footer img{
+    width: 80px;
+}
+#a1{
+    position: fixed;
+    right: 0px;
+    bottom: 450px;
+}
